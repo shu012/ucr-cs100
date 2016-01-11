@@ -1,9 +1,8 @@
 ## cs100 - open source software construction
-
 This is a course on [how to be a hacker](http://www.catb.org/esr/faqs/hacker-howto.html).
 Being a hacker [means a lot of things](http://www.catb.org/jargon/html/H/hacker.html).
 It means:
-
+//change
 1. wanting to know *how* and *why* computers work
 
 2. being efficient / never repeating yourself
